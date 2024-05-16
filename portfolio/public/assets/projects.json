@@ -1,0 +1,38 @@
+[
+    {
+        "name": "University Probability Predicter",
+        "description": "Developed a web-based machine learning model to estimate university acceptance probability using GPA and test scores.",
+        "github_link": "https://github.com/sohamsangole/University-Probability-Predictor",
+        "image": "https://raw.githubusercontent.com/sohamsangole/University-Probability-Predictor/main/upp.png"
+    },
+    {
+        "name": "Humanitarian Mapping",
+        "description": "Analyzed building dispersion, aiding decision-makers and urban planners for data-driven urban development.",
+        "github_link": "https://github.com/sohamsangole/Humanitarian-Mapping",
+        "image": "https://raw.githubusercontent.com/sohamsangole/Humanitarian-Mapping/main/images/img1.png"
+    },
+    {
+        "name": "Automatic Snake Game",
+        "description": "Developed an automatic Snake Game using Reinforcement Learning for analysis.",
+        "github_link": "https://github.com/sohamsangole/Snake-Game-using-Reinforcement-Learning",
+        "image": "https://raw.githubusercontent.com/sohamsangole/Snake-Game-using-Reinforcement-Learning/main/snakes.png"
+    },
+    {
+        "name": "Project Portfolio",
+        "description": "Developed project portfolio using Next.js for clear presentation of projects and skills.",
+        "github_link": "https://github.com/sohamsangole/Portfolio",
+        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+    },
+    {
+        "name": "SwasthSaathi",
+        "description": "Developed SwasthSaathi, a healthcare app aimed at simplifying medical appointment scheduling, enhancing patient experience, and optimizing hospital operations.",
+        "github_link": "https://github.com/mrudul2/SIH-2023",
+        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+    },
+    {
+        "name": "Linear-Regression-Simulator",
+        "description": "Developed a Linear Regression Simulator to visualize and understand the linear regression algorithm through interactive demonstrations.",
+        "github_link": "https://github.com/sohamsangole/Linear-Regression-Simulator",
+        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+    }
+]
