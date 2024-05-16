@@ -21,18 +21,18 @@
         "name": "Project Portfolio",
         "description": "Developed project portfolio using Next.js for clear presentation of projects and skills.",
         "github_link": "https://github.com/sohamsangole/Portfolio",
-        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+        "image": "https://raw.githubusercontent.com/sohamsangole/Portfolio/main/portfolio.png"
     },
     {
         "name": "SwasthSaathi",
         "description": "Developed SwasthSaathi, a healthcare app aimed at simplifying medical appointment scheduling, enhancing patient experience, and optimizing hospital operations.",
         "github_link": "https://github.com/mrudul2/SIH-2023",
-        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+        "image": "https://private-user-images.githubusercontent.com/103999385/269375627-9a231930-4888-4fc4-8acc-3c3891346f83.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU4OTI5MzYsIm5iZiI6MTcxNTg5MjYzNiwicGF0aCI6Ii8xMDM5OTkzODUvMjY5Mzc1NjI3LTlhMjMxOTMwLTQ4ODgtNGZjNC04YWNjLTNjMzg5MTM0NmY4My5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDUxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA1MTZUMjA1MDM2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2QxYWE2MDlhM2I5ZmU4ODJjN2QyNTk5MWI2MDZlMTQ0NTgyZjM4ODE5N2MwMzAwYjVlMmY5NzM5MDMzZTU1NSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.rgr3F9rJx7_OSVMHCEOJGMDlfirtuNWdy_mLh_OlLF8"
     },
     {
         "name": "Linear-Regression-Simulator",
         "description": "Developed a Linear Regression Simulator to visualize and understand the linear regression algorithm through interactive demonstrations.",
         "github_link": "https://github.com/sohamsangole/Linear-Regression-Simulator",
-        "image": "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg"
+        "image": "https://private-user-images.githubusercontent.com/111352611/246208217-ed832162-188b-4cec-a5eb-386c8dbb426e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU4OTI4MTksIm5iZiI6MTcxNTg5MjUxOSwicGF0aCI6Ii8xMTEzNTI2MTEvMjQ2MjA4MjE3LWVkODMyMTYyLTE4OGItNGNlYy1hNWViLTM4NmM4ZGJiNDI2ZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNlQyMDQ4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOWZlYzRkNzg2OWZmZDc5ZTM5Y2U3NDBjODljZTYyYzMyN2VjNDgyNGFjZWY4Mjk4ZmE4MjcyMDQ1Y2I0YjIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZmN3CdV8oFBottx4LXenRTA1uHzeC7cH08ApWHftC5Y"
     }
 ]
