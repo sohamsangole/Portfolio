@@ -25,15 +25,6 @@ const NavbarComponent = () => {
                             Articles
                         </Link>
                     </NavbarItem>
-                    <NavbarItem isActive>
-                        <Link
-                            href="#"
-                            aria-current="page"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
-                        >
-                            About
-                        </Link>
-                    </NavbarItem>
                 </NavbarContent>
                 <NavbarContent className="hidden sm:flex gap-5">
                     <NavbarItem>
