@@ -10,10 +10,19 @@ const NavbarComponent = () => {
                     <NavbarItem>
                         <Link
                             color="foreground"
-                            href="#"
+                            href="/"
                             className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
                         >
                             Home
+                        </Link>
+                    </NavbarItem>
+                    <NavbarItem>
+                        <Link
+                            href="/articles"
+                            aria-current="page"
+                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                        >
+                            Articles
                         </Link>
                     </NavbarItem>
                     <NavbarItem isActive>
@@ -23,24 +32,6 @@ const NavbarComponent = () => {
                             className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
                         >
                             About
-                        </Link>
-                    </NavbarItem>
-                    <NavbarItem>
-                        <Link
-                            href="#"
-                            aria-current="page"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
-                        >
-                            Projects
-                        </Link>
-                    </NavbarItem>
-                    <NavbarItem>
-                        <Link
-                            href="#"
-                            aria-current="page"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
-                        >
-                            Certificates
                         </Link>
                     </NavbarItem>
                 </NavbarContent>

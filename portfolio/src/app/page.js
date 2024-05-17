@@ -6,6 +6,7 @@ import ProjectList from './ProjectList';
 export default function Home() {
 
   return (
+
     <main className="flex min-h-screen flex-col">
       <div className='fixed top-0 w-full'>
         <NavbarComponent />
