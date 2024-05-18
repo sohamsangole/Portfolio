@@ -3,15 +3,15 @@ import { Navbar, NavbarBrand, NavbarContent, NavbarItem, Link } from "@nextui-or
 
 const NavbarComponent = () => {
     return (
-        <div style={{ backgroundColor: '#30dcdc' }}>
+        <div style={{ backgroundColor: '#383896' }}>
             <Navbar className="px-36 py-5 w-full">
                 <NavbarContent className="hidden sm:flex gap-5 justify-between">
-                    <p className="font-bold hover:text-black text-white text-3xl ">Soham Sangole</p>
+                    <p className="font-bold hover:text-black text-white text-3xl hover:transform duration-500">Soham Sangole</p>
                     <NavbarItem>
                         <Link
                             color="foreground"
                             href="/"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                            className="text-lg hover:text-black text-white  hover:transform duration-300"
                         >
                             Home
                         </Link>
@@ -20,7 +20,7 @@ const NavbarComponent = () => {
                         <Link
                             href="/articles"
                             aria-current="page"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                            className="text-lg hover:text-black text-white  hover:transform duration-300"
                         >
                             Articles
                         </Link>
@@ -33,7 +33,7 @@ const NavbarComponent = () => {
                             aria-current="page"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                            className="text-lg hover:text-black text-white  hover:transform duration-300"
                         >
                             Github
                         </Link>
@@ -44,7 +44,7 @@ const NavbarComponent = () => {
                             aria-current="page"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                            className="text-lg hover:text-black text-white  hover:transform duration-300"
                         >
                             LinkedIn
                         </Link>
@@ -55,7 +55,7 @@ const NavbarComponent = () => {
                             aria-current="page"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-lg hover:text-black text-white transform transition-transform duration-500 hover:scale-105"
+                            className="text-lg hover:text-black text-white  hover:transform duration-300"
                         >
                             LeetCode
                         </Link>

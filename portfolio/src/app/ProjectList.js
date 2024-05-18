@@ -27,14 +27,14 @@ const ProjectList = () => {
                         <div className="p-4">
                             <h1 className="text-xl font-semibold mb-2">{project.name}</h1>
                             <p className="text-black mb-4">{project.description}</p>
-                            <button
-                                className="text- font-bold py-2 px-4 rounded"
-                                style={{ backgroundColor: '#30dcdc' }}
-                            >
-                                <a href={project.github_link} target="_blank" rel="noopener noreferrer">
+                            <a href={project.github_link} target="_blank" rel="noopener noreferrer">
+                                <button
+                                    className="text-white font-bold py-2 px-4 rounded"
+                                    style={{ backgroundColor: '#383896' }}
+                                >
                                     GitHub
-                                </a>
-                            </button>
+                                </button>
+                            </a>
                         </div>
                     </div>
                 </div>

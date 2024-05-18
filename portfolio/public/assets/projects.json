@@ -12,6 +12,12 @@
         "image": "https://raw.githubusercontent.com/sohamsangole/Humanitarian-Mapping/main/images/img1.png"
     },
     {
+        "name": "Ping-Pong-Game-Reinforcement-Learrning",
+        "description": "Developed an AI-driven Ping-Pong Game utilizing Reinforcement Learning algorithms for intuitive gameplay and strategic decision-making. Integrated advanced machine learning techniques to enhance player experience and foster adaptive gameplay dynamics.",
+        "github_link": "https://github.com/sohamsangole/Ping-Pong-Game-Reinforcement-Learrning",
+        "image": "https://raw.githubusercontent.com/sohamsangole/Ping-Pong-Game-Reinforcement-Learrning/main/Screen%20Shot.png"
+    },
+    {
         "name": "Snake-Game-using-Reinforcement-Learning",
         "description": "Developed an automatic Snake Game using Reinforcement Learning for analysis.",
         "github_link": "https://github.com/sohamsangole/Snake-Game-using-Reinforcement-Learning",
