@@ -23,8 +23,8 @@ const NavbarComponent = () => {
     }, []);
 
     return (
-        <div className={`navbar-border z-10`} style={{ backgroundColor: '#ffffff' }}>
-            <Navbar className={`px-36 ${isScrolled ? 'py-2' : 'py-5'} w-full transition-all duration-500`}>
+        <div className={`navbar-border`} style={{ backgroundColor: 'rgba(255, 255, 255, 0.95)' }}>
+            <Navbar className={`px-36 ${isScrolled ? 'py-2' : 'py-5'} w-full transition-all duration-1000`}>
                 <NavbarContent className="hidden sm:flex gap-5 justify-between">
                     <p className="font-bold text-black text-3xl hover:transform hover:scale-125 duration-500 px-5">SohamSangole</p>
                     <NavbarItem>
