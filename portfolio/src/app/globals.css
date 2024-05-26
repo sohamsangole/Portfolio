@@ -3,6 +3,13 @@
 @tailwind utilities;
 
 
+::selection {
+  background: black;
+  /* Background color of the selection */
+  color: white;
+  /* Text color of the selection */
+}
+
 
 @layer utilities {
   .text-balance {

@@ -8,11 +8,12 @@ export default function Home() {
   return (
 
     <main className="flex min-h-screen flex-col">
-      <div className='fixed top-0 w-full'>
+      <div className='fixed top-0 w-full z-10'>
         <NavbarComponent />
       </div>
       <TopText />
       <div className='px-48 py-4'>
+        <h1 className='text-3xl font-bold text-center py-10 '> Projects </h1>
         <ProjectList />
       </div>
     </main>
